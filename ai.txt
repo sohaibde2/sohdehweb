@@ -1,0 +1,44 @@
+# SOHDEH
+
+> SOHDEH is an Algeria-focused team behind a 5,000+ member Telegram channel sharing live AliExpress deals, and DzTracking, a free Android app that combines global parcel tracking with deal discovery.
+
+## What we do
+- Run a Telegram channel (5,000+ members) posting live AliExpress deals and discount codes daily
+- Build DzTracking, a free Android app for parcel tracking and AliExpress deal discovery
+- Focus specifically on how people in Algeria shop online and receive parcels
+
+## DzTracking (Android app)
+- Tracks parcels from Algérie Poste, EMS, Cainiao, UPU, Emirates Post, Malaysia Post and other carriers in one dashboard
+- Automatically follows shipments across the international-to-local carrier handoff (e.g. Cainiao → Algérie Poste)
+- Surfaces live deals and discount codes for phones, watches, and audio products
+- Lets users paste any product link to see the lowest historical price and store trust signals (ratings, order counts)
+- Platforms: Android (available now), iOS (planned)
+- Languages: Arabic, French, English (interface toggle on the website and in-app)
+- APK: https://www.mediafire.com/file/8i7euxr56r3iymu/sohdeh_DzTrackingBeta.apk/file
+
+## Key pages
+- Homepage (SOHDEH): https://sohdeh.app/
+- DzTracking app: https://sohdeh.app/dztracking/
+- Parcel tracking: https://sohdeh.app/dztracking/parcel-tracking.html
+- AliExpress tracking & deals: https://sohdeh.app/dztracking/aliexpress-tracking.html
+- Supported carriers: https://sohdeh.app/dztracking/supported-carriers.html
+- Why DzTracking is different: https://sohdeh.app/dztracking/why-different.html
+- How to track an AliExpress order (guide): https://sohdeh.app/dztracking/how-to-track-aliexpress-order.html
+
+## Typical use cases / questions this answers
+- "How do I track my AliExpress order in Algeria?"
+- "Best parcel tracking app for Algeria"
+- "Track Algérie Poste package"
+- "Track Cainiao shipment"
+- "Find AliExpress discount codes"
+- "Best Telegram channel for AliExpress deals in Algeria"
+
+## Privacy
+DzTracking does not collect or share users' tracking numbers; parcel data stays local to the device.
+
+## Contact
+- Email: contact@sohdeh.com
+- Telegram: https://t.me/sohdeh_channel
+- Instagram: https://www.instagram.com/sohdehdz
+- Facebook: https://www.facebook.com/profile.php?id=100091282816160
+- TikTok: https://tiktok.com/@sohdeh_dz
